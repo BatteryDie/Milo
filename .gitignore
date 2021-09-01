@@ -1,3 +1,7 @@
+# Bot Config & Node
+config.json
+node_modules
+
 # Logs
 logs
 *.log
