@@ -7,10 +7,10 @@
 |Name|Available?|
 |:-:|:-:|
 |Slash Commands		|✅|
-|Moderation		|⏳|
-|Permission		|⏳|
+|Moderation Commands	|⏳|
+|Permission Commands	|⏳|
 |Action/GIF Commands	|✅|
-|Utility command	|⏳|
+|Utility Commands	|⏳|
 |Role Commands		|⏳|
 |Role Buttons		|⏳|
 |Minecraft Server Status|⏳|
