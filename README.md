@@ -10,6 +10,7 @@
 |Moderation Commands	|⏳|
 |Permission Commands	|⏳|
 |Action/GIF Commands	|✅|
+|Welcome		|⏳|
 |Utility Commands	|⏳|
 |Role Commands		|⏳|
 |Role Buttons		|⏳|
