@@ -3,45 +3,22 @@
 <img src="https://cdn.discordapp.com/avatars/858534348596707329/69769f64c867665a1f56d22e9b5ffde6.webp"></p>
 <p align="center">A Swiss Army Discord Bot</p>
 
-## Features
-|Name|Available?|
-|:-:|:-:|
-|Slash Commands		|✅|
-|Moderation Commands	|⏳|
-|Permission Commands	|⏳|
-|Action/GIF Commands	|✅|
-|Welcome		|⏳|
-|Utility Commands	|⏳|
-|Role Commands		|⏳|
-|Role Buttons		|⏳|
-|Minecraft Server Status|⏳|
-|Other Gaming Status	|⏳|
-
-## Setup
-Node.js 16.6.0 or newer and Discord.js 13.1.0 or newer is required. To install all necessary packages including Discord.js:
-```shell
-npm install
+To install Python Packages:
 ```
-To create config.json for bot token and server id:
+discord.py
+```
+
+To create config.json for bot token and other settings:
 ```json
 {
-	"clientId": "",
-	"guildId": "",
-	"token": ""
+  "clientId": "",
+  "guildId": "", 
+  "token": "",
+  "admin_role":"",
+  "mod_role":"",
+  "status":""
 }
-
 ```
-
-To start bot:
-```shell
-node index.js
-```
-
-To deploy slash command:
-```shell
-npm run deploy-commands.js
-```
-
 ## Credit 
 * Luca Jones/BatteryDie - [Milo](https://github.com/BatteryDie/Milo/)
-* Amish Shah/Discord.js - [Discord.js](https://github.com/discordjs/discord.js)
+* Rapptz/Discord.py - [Discord.py](https://github.com/Rapptz/discord.py)
